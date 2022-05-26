@@ -1,5 +1,3 @@
-
-
 public class manage {
     public static void main(String[] args) {
 //        int nn;
