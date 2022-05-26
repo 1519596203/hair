@@ -7,8 +7,6 @@ public class manage {
 //        nn = READER.nextInt();
         System.out.println("hheakgk");
 
-
-
     }
 
 }
